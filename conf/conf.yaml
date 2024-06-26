@@ -1,0 +1,7 @@
+# Data source paths
+
+save_paths:
+  input_data: '../data/'
+  fifa_data: '../input/fifa'
+  taxi_data: '../input/taxi'
+  hospital_data: '../input/hospital'

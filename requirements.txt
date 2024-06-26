@@ -1,0 +1,7 @@
+numpy==1.26.4
+eli5==0.13.0 
+scikit-learn==1.2.2
+graphviz
+pyyaml
+shap==0.44.1
+ipywidgets
